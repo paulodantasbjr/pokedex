@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-ts",
-  "version": "0.0.0",
-  "description": "Paulo Dantas Portfolio site using React and TypeScript",
+  "name": "pokedex",
+  "version": "0.1.0",
+  "description": "Pokedex using React and TypeScript",
   "author": "Paulo Dantas <paulodantasbjr@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/paulodantasrj",
