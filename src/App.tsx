@@ -1,7 +1,14 @@
+import { BrowserRouter } from 'react-router-dom';
+
+import { RecoilRoot } from 'recoil';
+import { Routes } from 'routes/Routes';
+
 export const App = () => {
   return (
-    <div>
-      <h1>oi</h1>
-    </div>
+    <RecoilRoot>
+      <BrowserRouter>
+        <Routes />
+      </BrowserRouter>
+    </RecoilRoot>
   );
 };
